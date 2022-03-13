@@ -3,16 +3,16 @@ Implementation of AI for graph coloring problem
 
 
 ## How to RUN:
- Run the source.cpp in c++ environment. The solution file can be found inside GraphColoringCSP folder
- **Please, see input and output formats below!**
+Run the source.cpp in c++ environment. The solution file can be found inside GraphColoringCSP folder
+**Please, see input and output formats below!**
 
-#About the algorithm
-	Backtracking DFS was utilized to solve the problem. Least Constraining Value and Minimum Remaining Value heuristics are used. Additionally, the algorithm makes use of the AC-3 (Constraint Propagation) with the combination of forward checking to speed up the processing. However, there is still some test cases that the algorithm struggles to find the answer in an acceptable amount of time.
+## About the algorithm
+Backtracking DFS was utilized to solve the problem. Least Constraining Value and Minimum Remaining Value heuristics are used. Additionally, the algorithm makes use of the AC-3 (Constraint Propagation) with the combination of forward checking to speed up the processing. However, there is still some test cases that the algorithm struggles to find the answer in an acceptable amount of time.
 	
 ## Input Format
-	Input consists of two parts:
-1)	Number of colors (size of the color domain)
-2)	Edges of the graph
+Input consists of two parts:
+1)Number of colors (size of the color domain)
+2)Edges of the graph
 Important Note 1: Graph is supposed to start with the node 0 and no edges are omitted. (For example, graph having nodes like 1, 2, 19 will break the program. Nodes have to be like 1, 2, …, 18, 19 in this case.
 Important Note 2: Edges are inputted in the form of [from, to] and the input is terminated with [-1,-1]. An example input is given below: (not including parentheses)
 3 (Color=n)
@@ -22,7 +22,7 @@ Important Note 2: Edges are inputted in the form of [from, to] and the input is 
 1,3 (Edge #4)
 -1,-1 (Termination)
 ## Output format
-	Output writes a message to the screen indicating whether a solution exist or not. Subsequently, vertex (node) number and its color is printed to the screen. An example can be seen below:
+Output writes a message to the screen indicating whether a solution exist or not. Subsequently, vertex (node) number and its color is printed to the screen. An example can be seen below:
 Vertex 0: Color 1
 Vertex 1: Color 2
 Vertex 2: Color 3
