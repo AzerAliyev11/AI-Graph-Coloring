@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(60,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(64,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(79,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(81,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(85,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(87,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(111,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(118,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(161,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(178,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(221,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\GraphColoringCSP\GraphColoringCSP\Source.cpp(233,21): warning C4018: '<': signed/unsigned mismatch
+  GraphColoringCSP.vcxproj -> C:\Users\User\source\repos\GraphColoringCSP\Debug\GraphColoringCSP.exe
